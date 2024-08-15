@@ -58,6 +58,3 @@ Para ejecutar este proyecto, se requiere:
 
 Este proyecto está destinado a aquellos interesados en explorar datos de FIFA y aplicar técnicas de machine learning para análisis predictivo.
 
-### Contacto
-
-Para cualquier pregunta o sugerencia, por favor contáctame en [tu correo aquí].
